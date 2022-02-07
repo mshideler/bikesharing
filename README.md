@@ -6,7 +6,7 @@ The purpose of this project is to use Tableau to display data from a bike-share 
 
 ## Results
 
-![Summary]()
+![Summary](https://github.com/mshideler/bikesharing/blob/main/Resources/Summary.PNG)
 
 The above summary graphic shows four visualizations.  First, the total number of rides in NYC for the month of August 2019 is about 2.3 million.  That averages to about 75,620 checkouts per day showing this is a wildly successful program.  The "Gender Breakdown" graphic shows males make up most of the customer base with over 1.5 million rides.  There are nearly 600,000 female bike-riders, and gender was unidentified for about 225,000 riders.
 
@@ -14,11 +14,11 @@ There are two types of customers, as the "Customers" visual shows.  There are ab
 
 The "User Trips by Gender by Weekday" heatmap compares the number of trips between customers and subscribers and breaks down the data by gender as well as the day of the week.  The darker blue-green colors under subscriber for males and females indicate heavier usage (more rides) for those groups than for the customer group.
 
-![Checkout Times]()
+![Checkout Times](https://github.com/mshideler/bikesharing/blob/main/Resources/Checkout_times.PNG)
 
 
 
-![Bike Trips]()
+![Bike Trips](https://github.com/mshideler/bikesharing/blob/main/Resources/Bike_trips.PNG)
 
 The pictures seen here may be viewed at Tableau Public by clicking this link:
 
