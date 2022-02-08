@@ -16,7 +16,7 @@ The "User Trips by Gender by Weekday" heatmap compares the number of trips betwe
 
 ![Checkout Times](https://github.com/mshideler/bikesharing/blob/main/Resources/Checkout_times.PNG)
 
-
+The above graphic shows the number of bikes checked out and for how long in hours and minutes.  The top graph displays this for all users regardless of gender or type of customer.  The bottom graph breaks down this information by gender.  Each graph is interactive so users can see this information for longer durations.  The bottom graph can be filtered to show one, two or all three genders.  Most users checkout bikes for less than an hour.  Beyond that, significanly fewer bikes are checked out for a longer period of time.
 
 ![Bike Trips](https://github.com/mshideler/bikesharing/blob/main/Resources/Bike_trips.PNG)
 
@@ -26,3 +26,6 @@ The pictures seen here may be viewed at Tableau Public by clicking this link:
 These visualizations are best viewed in full-screen mode.
 
 ## Summary
+
+Checkout Times by Customer/subscriber,
+Bike trips by weekday per hour for customers/subscribers
