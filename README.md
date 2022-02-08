@@ -6,7 +6,7 @@ The purpose of this project is to use Tableau to display data from a bike-share 
 
 ## Results
 
-### Summary Graph
+### Summary Graphs
 
 ![Summary](https://github.com/mshideler/bikesharing/blob/main/Resources/Summary.PNG)
 
@@ -43,4 +43,4 @@ There are a couple of other graphs that would provide additional insight.
 
 1.  We know the more a bike gets used, the more prone it will be to repairs.  It would be insightful to determine how both the length of checkout time and number of checkouts affect the number of repairs each bike needs so we can determine how to extend each bike's usage.
 
-2.  We know males use the bike share program more than females.  Breaking down the customer type by gender may spark an idea on how to market these program to encourage more female subscribers.
+2.  We know males use the bike share program more than females.  Breaking down the customer type by gender may spark an idea on how to market this program to encourage more female subscribers.
